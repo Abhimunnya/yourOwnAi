@@ -208,7 +208,7 @@ flowchart TB
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/yourOwnAi.git
+git clone https://github.com/Abhimunnya/yourOwnAi.git
 cd yourOwnAi
 
 # 2. Install all dependencies into a virtual environment
@@ -526,7 +526,7 @@ Add a `LICENSE` file to the repository (for example, MIT) and update this sectio
 
 <div align="center">
 
-**Built by [YOUR NAME](https://github.com/YOUR-USERNAME)**
+**Built by [Abhimunnya Dey](https://github.com/Abhimunnya)**
 
 If you found this useful, a ⭐ on the repository is appreciated.
 
